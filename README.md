@@ -1,9 +1,18 @@
-# AmazonResponse
-Machine Learning untuk mengkategorian komen positif dan negatif berdasarkan kalimat (Natural Language processing)
+# 🛒 AmazonResponse - Sentiment Classification with NLP
 
-1. Menggunakan data set lebih dari 1000
-2. Embedding
-3. LSTM
-4. Model Sequential
-5. Tokenizer
-6. Akurasi > 75%
+A Machine Learning project using **Natural Language Processing (NLP)** to classify Amazon user comments as **positive** or **negative** sentiment.
+
+## 📘 Project Summary
+
+This sentiment analysis model processes user comments to determine emotional tone using deep learning with **LSTM** and **word embeddings**.
+
+### 🔍 Highlights:
+
+1. 📊 **Dataset**: More than **1,000 labeled sentences**
+2. 🧠 **Model**:
+   - **Sequential API**
+   - **Tokenizer** for text preprocessing
+   - **Embedding layer** for word vector representation
+   - **LSTM layer** for sequence learning
+3. 🎯 **Accuracy**:
+   - Achieved **> 75%** on test data
